@@ -90,7 +90,7 @@ The best models achieve around ~73-74% accuracy. We deliberately tuned the decis
 
 ## Streamlit Dashboard
 
-![Dashboard Demo](assets/demo.webp)
+![Dashboard Demo](assets/demo_v2.webp)
 
 An interactive Streamlit application (`dashboard/app.py`) provides:
 - **Overview & Risk Factor Analysis:** Explore CVD prevalence by demographics.
