@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+models/*.pkl
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+reports/*.csv
+!reports/.gitkeep
+tableau/*.csv
+!tableau/tableau_dashboard_blueprint.md
+.DS_Store
